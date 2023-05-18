@@ -1,13 +1,13 @@
-### Microsoft Future Ready Talent Virtual Internship
+## Microsoft Future Ready Talent Virtual Internship
 
 This is Emotions Detection Application
 Web Technologies used: HTML
 Language: Python
 IDE: VS-Code
 
-Industry : #Lifestyle
+Industry : Lifestyle
 
-Project Title : # Emotions Detection using Computer Vision
+Project Title : Emotions Detection using Computer Vision
 
 
 Problem Statement/Opportunity :
