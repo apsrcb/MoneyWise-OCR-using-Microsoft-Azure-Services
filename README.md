@@ -5,14 +5,14 @@ Web Technologies used: HTML
 Language: Python
 IDE: VS-Code
 
-##Industry : Lifestyle
+# Industry : Lifestyle
 
-##Project Title : Emotions Detection using Computer Vision
+# Project Title : Emotions Detection using Computer Vision
 
 
-##Problem Statement/Opportunity :
+# Problem Statement/Opportunity :
 
-##Project Description :
+# Project Description :
 
 ##Primary Azure Technology :
 Azure Cognitive Services for Computer Vision
