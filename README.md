@@ -1,9 +1,11 @@
 # Microsoft Future Ready Talent Virtual Internship
 
 
-## Industry : Fin Tech and Lifestyle 
+## Industry : 
+Fin Tech and Lifestyle 
 
-## Project Title : MoneyWise ~ Enabling Teenagers to Track Expenses Seamlessly using Azure Computer Vision
+## Project Title : 
+MoneyWise ~ Enabling Teenagers to Track Expenses Seamlessly using Azure Computer Vision
 
 ## Problem Statement : 
 
@@ -18,8 +20,9 @@ This service provides Optical Character Recognition (OCR) capabilities, allowing
 
 ### Framework : 
 XUnit, .NetCore
-### Language: 
+### Language : 
 Python
-### IDE: VS-Code
+### IDE : 
+VS-Code
 
 ![image](https://github.com/rithikabadam/FTR-Internship-Project/assets/94275810/b9feaa6a-600d-4a62-a7ec-7c504148e9a4)
