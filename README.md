@@ -1,4 +1,4 @@
-# Microsoft Future Ready Talent Virtual Internship
+# Microsoft Future Ready Talent Internship
 
 
 ## Industry : 
@@ -9,7 +9,7 @@ MoneyWise ~ Enabling Teenagers to Track Expenses Seamlessly using Azure Computer
 
 ## Problem Statement : 
 
-Teenagers often struggle to keep track of their expenses, leading to poor financial management and difficulty in budgeting. While various budgeting apps are available, they typically rely on manual entry of receipts, which is prone to errors and often forgotten, especially in situations where receipts are not readily available. This lack of accurate expense tracking hampers teenagers' ability to understand and manage their finances effectively.
+Teenagers often struggle to keep track of their expenses, leading to poor financial management and difficulty in budgeting. While various budgeting apps are available, they typically rely on manual entry of receipts, which is prone to errors and often forgotten, especially in situations where receipts are not readily available. This lack of accurate expense tracking hampers teenagers' ability to understand and manage their finances effectively. To develop a console application using C# and Mocrosoft Azure CV that leverages Azure Computer Vision to automatically extract expenses and the total amount from a photo of a receipt eliminating the need for manual receipt entry and addresses the issue of teenagers struggling to track their expenses accurately.
 
 ## Project Description :
 
