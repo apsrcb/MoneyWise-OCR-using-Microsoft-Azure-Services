@@ -1,4 +1,4 @@
-# Microsoft Future Ready Talent Internship
+# OCR using Microsoft Azure Cognitive Services(CV)
 
 
 ## Industry : 
