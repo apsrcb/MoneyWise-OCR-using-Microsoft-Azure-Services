@@ -24,5 +24,3 @@ XUnit, .NetCore
 Python
 ### IDE : 
 VS-Code
-
-![image](https://github.com/rithikabadam/FTR-Internship-Project/assets/94275810/b9feaa6a-600d-4a62-a7ec-7c504148e9a4)
